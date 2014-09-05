@@ -1,0 +1,26 @@
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron dssgbanner">
+      <div class="container">
+	  <img src='<%- config.root %>img/dssg_banner.png'>
+      </div>
+    </div>
+<div class="container">
+<% if (is_home()) { %> 
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Who are we?</h2>
+          <p>We are a user group for anyone interested in data science to interact and share their skills and know-how. We invite the occasional domain experts to share with us about their experiences but really, if you are armed with any talk that seems interesting, do shoot us a message by contacting us or joining the discussion on our Facebook group.</p> 
+        </div>
+        <div class="col-md-4">
+          <h2>When and where do we meet?</h2>
+          <p>DataScience.sg sharing sessions are currently held monthly at SMU's School of Information Systems. To find out more about our events, go to our <a href="http://www.meetup.com/DataScience-SG-Singapore">meetup</a> website.</p>
+       </div>
+        <div class="col-md-4">
+          <h2>Help Us!</h2>
+          <p>We need sponsors for the venue and it would be nice to have sponsors for pizza and beer. If you have something in mind, do contact us and we can work something out together!</p>
+        </div>
+      </div>
+		<% } else { %><%- partial('_partial/article', {post: page, index: false}) %> <%}%>
+</div>
