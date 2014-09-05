@@ -27,8 +27,7 @@ text-align:left;
 .dssgbanner .container img
 {
 text-align:left;
-
-
+max-width: 100%;
 }
 .nav-logo
 {
