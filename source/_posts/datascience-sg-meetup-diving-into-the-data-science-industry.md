@@ -37,10 +37,3 @@ In this sharing session we will focus on the perspective of how analytics can be
 
 [ [slides](http://www.facebook.com/l.php?u=http%3A%2F%2Fdatascience.sg%2Fmeetup%2FAn_Industrial_Roadmap_to_Analytics.pdf&amp;h=_AQEpe8ym) ]
 
-&nbsp;
-
-&nbsp;
-
-[Best_Wordpress_Gallery gallery_type="thumbnails" theme_id="1" gallery_id="3" sort_by="order" image_column_number="5" images_per_page="30" image_title="undefined" image_enable_page="1" thumb_width="180" thumb_height="90" popup_width="800" popup_height="500" popup_effect="none" popup_interval="5" popup_enable_filmstrip="1" popup_filmstrip_height="70" popup_enable_ctrl_btn="1" popup_enable_fullscreen="1" popup_enable_comment="1" popup_enable_facebook="1" popup_enable_twitter="1" popup_enable_google="1" watermark_type="none" watermark_link="0"]
-
-&nbsp;

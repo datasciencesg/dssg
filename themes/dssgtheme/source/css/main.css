@@ -3,10 +3,20 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
 body
 {
 padding:0px;
 }
+a
+{
+color:red;
+}
+a:hover
+{
+color:red;
+}
+
 .dssgbanner
 {
 background-image: url('../img/singapore.jpg');
@@ -40,7 +50,7 @@ height:52px;
 {
 border:0px;
 margin:0px;
-background:blue;
+background:red;
 font-weight:bold;
 }
 
@@ -56,7 +66,7 @@ background-image:none;
 
 .navbar .navbar-nav .active a:hover {
 color: white;
-background-color:#0099FF;
+background-color:#780000;
 background-image:none;
 }
 
@@ -68,20 +78,20 @@ background-image:none;
 
 .navbar .navbar-nav li a:hover {
 color: white;
-background-color:#0099FF;
+background-color:#780000;
 background-image:none;
 }
 
 .navbar-default .navbar-toggle
 {
-background-color:blue;
-border-color:#0099FF;
+background-color:red;
+border-color:#780000;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-background-color:#0099FF;
-border-color:#0099FF;
+background-color:#780000 ;
+border-color:#780000 ;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -97,9 +107,40 @@ text-align:center;
 height:50px;
 padding:10px;
 }
+.article-meta
+{
+font-weight:bold;
+}
+.article
+{
+width:80%;
+margin:auto;
+}
+.paginationdiv
+{
+text-align:center;
+margin:auto;
+}
 
+.paginationdiv .pagination a:hover
+{
+color:red;
+}
 
+.paginationdiv .pagination a
+{
+color:red;
+}
 
+.git
+{
+color:black;
+font-weight:bold;
+}
 
-
+.git img
+{
+height:50px;
+padding:10px;
+}
 

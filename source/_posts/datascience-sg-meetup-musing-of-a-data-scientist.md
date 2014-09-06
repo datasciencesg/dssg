@@ -28,8 +28,4 @@ Dr. Spiros is a R&amp;D Professional in Security Engineering, Network Traffic A
 
 Corentin founded and is driving the data science effort within Zalora’s global headquarters in Singapore. Previously, he was Europe FX Trader for Louis Dreyfus Commodities, and built early BI at the Australian online retail leader The Iconic.
 
-&nbsp;
-
-[Best_Wordpress_Gallery gallery_type="thumbnails" theme_id="2" gallery_id="2" sort_by="order" image_column_number="5" images_per_page="30" image_title="undefined" image_enable_page="1" thumb_width="180" thumb_height="90" popup_width="800" popup_height="500" popup_effect="none" popup_interval="5" popup_enable_filmstrip="1" popup_filmstrip_height="70" popup_enable_ctrl_btn="1" popup_enable_fullscreen="1" popup_enable_comment="1" popup_enable_facebook="1" popup_enable_twitter="1" popup_enable_google="1" watermark_type="none" watermark_link="0"]
-
 Unfortunately, we may not be able to share all the videos / slides of our speakers due to confidentiality. Please come to the next meetup to avoid disappointment!

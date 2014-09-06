@@ -33,9 +33,6 @@ This is a very short introduction on Analytics/Data Science. It looks at Analyti
 **<iframe src="//www.youtube.com/embed/PxJWPs5emJM" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>**
 **  **
 
-[Best_Wordpress_Gallery gallery_type="thumbnails" theme_id="1" gallery_id="1" sort_by="order" image_column_number="5" images_per_page="30" image_title="undefined" image_enable_page="1" thumb_width="180" thumb_height="90" popup_width="800" popup_height="500" popup_effect="none" popup_interval="5" popup_enable_filmstrip="1" popup_filmstrip_height="70" popup_enable_ctrl_btn="1" popup_enable_fullscreen="1" popup_enable_comment="1" popup_enable_facebook="1" popup_enable_twitter="1" popup_enable_google="1" watermark_type="none" watermark_link="0"]
-
-&nbsp;
 
 Unfortunately, we may not be able to share all the videos / slides of our speakers due to confidentiality. Please come to the next meetup to avoid disappointment!
 
