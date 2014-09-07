@@ -85,7 +85,7 @@ background-image:none;
 .navbar-default .navbar-toggle
 {
 background-color:red;
-border-color:#780000;
+border-color:white;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -136,11 +136,23 @@ color:red;
 {
 color:black;
 font-weight:bold;
+vertical-align:middle;
+width:100%;
+}
+
+.git p
+{
+text-align:left;
+padding-top:5%;
+
 }
 
 .git img
 {
-height:50px;
+height:100px;
 padding:10px;
+float:left;
+
+
 }
 

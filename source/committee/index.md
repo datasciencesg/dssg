@@ -1,4 +1,4 @@
-title: Commitee
+title: Committee
 date: 2014-09-05 23:11:37
 ---
 
@@ -18,6 +18,10 @@ Chapter leader of DataKind SG !
 ###Kwang Yong [![kwangyong](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)](http://sg.linkedin.com/pub/kwang-yong-koh/2/251/33b)
 
 Healthcare professional and MOOC moderator.
+
+###Zane Lim [![zane](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)](http://sg.linkedin.com/pub/lim-zhi-yuan-zane/2b/202/677)
+
+Involved in mentorship
 
 ###Gabriel [![gabriel](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png)](http://sg.linkedin.com/in/gabrielchuan/)
 

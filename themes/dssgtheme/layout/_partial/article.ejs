@@ -25,8 +25,15 @@
         <%- post.content %>
       <% } %>
     </div>
-	      <div class="git">
-	  <p><img src="<%- config.root %>img/Octocat.png">You can contribute to this article by using GitHub</p>
+	      <div class="container git">
+		  <div class="row">
+		  <div class="col-md-1">
+		  <img src="<%- config.root %>img/Octocat.png">
+		  </div>
+		  <div class="col-md-6">
+	  <p>You can contribute to the content of this article by using GitHub</p>
+		</div>
+	  </div>
 	  </div>
     <footer class="article-footer">
       <% if (post.comments && config.disqus_shortname){ %>
