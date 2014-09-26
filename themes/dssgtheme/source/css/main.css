@@ -113,8 +113,22 @@ font-weight:bold;
 }
 .article
 {
-max-width:80%;
+width:800px;
 margin:auto;
+
+}
+.article img
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width:300px;
+}
+iframe
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
 }
 .paginationdiv
 {
@@ -137,7 +151,7 @@ color:red;
 color:black;
 font-weight:bold;
 vertical-align:middle;
-width:100%;
+
 }
 
 .git p
@@ -148,7 +162,8 @@ padding-top:5%;
 
 .git img
 {
-height:100px;
+width:100px;
+
 padding:10px;
 float:left;
 }
@@ -161,4 +176,11 @@ font-weight:bold;
 .article iframe
 {
 left:50%;
+}
+
+img.smallicon
+{
+width:20px;
+margin:0;
+display:inline;
 }
