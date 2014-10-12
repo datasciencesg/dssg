@@ -35,5 +35,5 @@ It has been suggested that over 10% of all the photos in the world were taken in
 
 In this sharing session we will focus on the perspective of how analytics can be successfully adopted by industry mass (not just Google, Facebook and Yahoo of the worlds). What are the key ingredients beyond the technical prunes of the avid data science warrior.
 
-[ [slides](http://www.facebook.com/l.php?u=http%3A%2F%2Fdatascience.sg%2Fmeetup%2FAn_Industrial_Roadmap_to_Analytics.pdf&amp;h=_AQEpe8ym) ]
+[ [slides](http://datascience.sg/meetup/An_Industrial_Roadmap_to_Analytics.pdf) ]
 
