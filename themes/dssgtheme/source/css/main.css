@@ -10,11 +10,11 @@ padding:0px;
 }
 a
 {
-color:red;
+color:#B40404;
 }
 a:hover
 {
-color:red;
+color:#B40404;
 }
 
 .dssgbanner
@@ -50,7 +50,7 @@ height:52px;
 {
 border:0px;
 margin:0px;
-background:red;
+background:#B40404;
 font-weight:bold;
 }
 
@@ -84,7 +84,7 @@ background-image:none;
 
 .navbar-default .navbar-toggle
 {
-background-color:red;
+background-color:#B40404;
 border-color:white;
 }
 
@@ -122,7 +122,7 @@ margin:auto;
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
-	width:300px;
+	max-width:80%;
 }
 iframe
 {
@@ -138,12 +138,12 @@ margin:auto;
 
 .paginationdiv .pagination a:hover
 {
-color:red;
+color:#B40404;
 }
 
 .paginationdiv .pagination a
 {
-color:red;
+color:#B40404;
 }
 
 .git
