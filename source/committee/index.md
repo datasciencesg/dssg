@@ -27,6 +27,22 @@ Involved in mentorship
 
 Current working in Singapore largest organization. He is also our videographer.
 
+###Yi Chiao (Yitch) Cheng <a href="http://sg.linkedin.com/in/yitch"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" class="smallicon"></a>
+
+Involved in organizing datascience meetups
+
+###Eugene Yan Ziyou <a href="http://sg.linkedin.com/in/eugeneyanziyou"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" class="smallicon"></a>
+
+Involved in organizing datascience meetups
+
+###Paul Healy
+
+Involved in MOOC
+
+###Elisa Ang
+
+Involved in MOOC
+
 ###Benji Thian <a href="http://sg.linkedin.com/in/benjithian"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" class="smallicon"></a>
 
 ”Live as if you were to die tomorrow. Learn as if you were to live forever” 
