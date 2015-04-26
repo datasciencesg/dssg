@@ -1,4 +1,4 @@
-title: DataScience Janunary Meetup
+title: DataScience Feburary Meetup
 date: 2015-02-28 13:00:00
 tags:
   - analytics
@@ -23,4 +23,3 @@ The speaker will talk about his phd work (sensor based snowboarding assistant) a
 [Thia Kai Xin](http://sg.linkedin.com/in/thiakx/) will give a demo of the solutions and insights based on using Python.
 
 ###Visit our facebook [group](https://www.facebook.com/media/set/?set=oa.337355373140326&type=1) for the photos!
-![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/1537714_10206346605248026_5697664568806590273_o.jpg)

@@ -10,7 +10,7 @@ categories:
 In this month meetup we have Hu Yiqin from Paypal to talk about Scalable Collaborative Filtering.
 
 ##About the speaker
-![huyiqin](http://photos3.meetupstatic.com/photos/event/9/b/3/4/600_410079732.jpeg)
+
 
 ###Hu Yiqun
 
@@ -20,8 +20,4 @@ Yiqun Hu is a experienced researcher in applied machine learning/pattern recogni
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/39451989" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-![meetimg1](http://photos3.meetupstatic.com/photos/event/9/b/7/a/600_413259802.jpeg)
-
-
-![meetimg2](http://photos2.meetupstatic.com/photos/event/9/b/8/e/600_413259822.jpeg)
 

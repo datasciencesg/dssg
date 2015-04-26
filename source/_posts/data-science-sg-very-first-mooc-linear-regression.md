@@ -11,8 +11,6 @@ date: 2014-02-25 15:49:32
 
 Data Science SG just conducted its very 1<sup>st</sup> Massive Open Online Course on 22<sup>nd</sup> February.
 
-[![MOOC2](http://datascience.sg/wp-content/uploads/2014/03/MOOC2-240x300.png)](http://datascience.sg/wp-content/uploads/2014/03/MOOC2.png)
-
 The discussion was led by Analytics professional Mr Koo Ping Shung while the working committee (me and Kwang Yong) presented on what they have learnt and researched on top of Andrew Ng Machine Learning courses. The topic discussed were related to linear regression with one variable and multiple variables.
 
 About 15 aspiring data scientist attended the discussion and they were broken down into 3 groups to tackle the next 3 topic for the next meetup.

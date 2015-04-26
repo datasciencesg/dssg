@@ -11,7 +11,6 @@ date: 2014-03-31 15:19:24
 <span style="line-height: 1.5em;">For the 3rd meetup, we have invited David Ayman Shamma (senior research scientist and head of the HCI Research group at Yahoo Labs, San Francisco) and David Hardoon (Associate Director, Information Management &amp; Business Analytics, ASEAN at Ernst &amp; Young) to talk about some of the interesting developments in data science!</span>
 
 As usual the meetup was hosted by Kai Xin  (Co-Founder of Data Science SG)
-[![DavidAymanShamma](http://datascience.sg/wp-content/uploads/2014/03/DavidAymanShamma-150x150.jpg)](http://datascience.sg/wp-content/uploads/2014/03/DavidAymanShamma.jpg)
 
 &nbsp;
 
@@ -25,7 +24,6 @@ It has been suggested that over 10% of all the photos in the world were taken in
 
 ** **
 
-[![davidhardoon](http://datascience.sg/wp-content/uploads/2014/03/davidhardoon-150x150.jpg)](http://datascience.sg/wp-content/uploads/2014/03/davidhardoon.jpg)
 
 &nbsp;
 

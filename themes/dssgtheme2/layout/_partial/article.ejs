@@ -1,0 +1,48 @@
+<section class="container articlemain">
+	<article id="<%= post.layout %>-<%= post.slug %>" class="article article-type-<%= post.layout %>" itemscope itemprop="blogPost">
+	<div class="article-inner">
+		<%- partial('post/gallery') %>
+		<% if (post.link || post.title){ %>
+			<header class="article-header">
+			<%- partial('post/title', {class_name: 'article-title'}) %>
+			</header>
+		<% } %>
+		<div class="article-meta">
+			<% if (!is_home()) { %>
+			<%- partial('post/date', {class_name: 'article-date', date_format: null}) %>
+			<% } %>
+		</div>
+		<div class="article-entry" itemprop="articleBody">
+			<% if (post.excerpt && index){ %>
+				<%- post.excerpt %>
+				<% if (theme.excerpt_link){ %>
+					<p class="article-more-link">
+					<a href="<%- config.root %><%- post.path %>#more"><%= theme.excerpt_link %></a>
+					</p>
+				<% } %>
+			<% } else { %>
+			<%- post.content %>
+			<% } %>
+		</div>
+
+		<div class="article-footer">
+			<% if (post.comments && config.disqus_shortname && index){ %>
+				<a href="<%- post.permalink %>#disqus_thread" class="article-comment-link ">Comments</a>
+			<% } %>
+			<% if (!index){ %>
+				<%- partial('disqus') %>
+			<% } %> 
+		</div>
+		<div class="container git">
+			<div class="row">
+				<div class="col-md-1">
+					<i class="fa fa-github fa-4x"></i>
+				</div>
+				<div class="col-md-6">
+					<p>You can contribute to the content of this article by using <a href="https://github.com/datasciencesg/dssg/tree/master/source/<%= post.source %>">GitHub</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	</article>
+</section>

@@ -14,7 +14,6 @@ The meet up was held at SMU on 22th Feburary 2014 and was hosted by Mr Thia.
 
 **Spiros**
 
-[![meetup2_2](http://datascience.sg/wp-content/uploads/2014/02/meetup2_2.jpg)](http://datascience.sg/wp-content/uploads/2014/02/meetup2_2.jpg)
 
 Dr. Spiros is a R&amp;D Professional in Security Engineering, Network Traffic Analysis, Intrusion detection and prevention systems. He is experienced in managing teams of research, development and support for network monitoring and analysis products. He is also highly interested in analysis studies and techniques for marketing and business development, Web security and performance computing.
 
@@ -24,7 +23,6 @@ Dr. Spiros is a R&amp;D Professional in Security Engineering, Network Traffic A
 <div style="margin-bottom: 5px;">** [Data science meetup - Spiros Antonatos](https://www.slideshare.net/SpirosAntonatos/data-science-meetup-spiros-antonatos "Data science meetup - Spiros Antonatos") ** from **[Spiros Antonatos](http://www.slideshare.net/SpirosAntonatos)**</div>
 &nbsp;
 <div style="margin-bottom: 5px;">**Corentin**</div>
-[![meetup2_1](http://datascience.sg/wp-content/uploads/2014/02/meetup2_1.jpg)](http://datascience.sg/wp-content/uploads/2014/02/meetup2_1.jpg)
 
 Corentin founded and is driving the data science effort within Zalora’s global headquarters in Singapore. Previously, he was Europe FX Trader for Louis Dreyfus Commodities, and built early BI at the Australian online retail leader The Iconic.
 

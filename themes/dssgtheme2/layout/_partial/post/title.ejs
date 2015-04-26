@@ -1,0 +1,15 @@
+<% if (post.link){ %>
+  <h1 itemprop="name">
+    <%= post.title %>
+  </h1>
+<% } else if (post.title){ %>
+  <% if (index){ %>
+    <h1 itemprop="name">
+      <%= post.title %>
+    </h1>
+  <% } else { %>
+    <h1 class="<%= class_name %>" itemprop="name">
+      <%= post.title %>
+    </h1>
+  <% } %>
+<% } %>

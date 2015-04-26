@@ -1,0 +1,10 @@
+<div class="paginationdiv">
+<ul class="pagination">
+<% if (page.prev){ %>
+  <li><a href="<%- url_for(page.prev_link) %>">Prev</a></li>
+<% } %>
+<% if (page.next){ %>
+  <li><a href="<%- url_for(page.next_link) %>">Next</a></li>
+<% } %>
+</ul>
+</div>

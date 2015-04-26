@@ -38,9 +38,3 @@ Allen Day ([Linkedin Profile](https://www.linkedin.com/in/allenday))
 Wu Dan ([Linkedin Profile](http://sg.linkedin.com/in/wudanprofile))
 
 <span style="line-height: 1.5em;">Wu Dan currently heads the Healthcare Analytics Unit at Khoo Teck Puat Hospital (KTPH), Alexandra Health System, Singapore. At national level, he serves as a part-time professional with the Policy Research and Economics Office at Ministry of Health. Working with a team of data scientists, Dan oversees projects in predictive analytics and operations research that generate actionable insights to enable better patient care</span>
-
-![](http://photos3.meetupstatic.com/photos/event/7/f/2/8/600_380252552.jpeg)
-
-![](http://photos2.meetupstatic.com/photos/event/2/2/7/6/600_380288822.jpeg)
-
-![](http://photos4.meetupstatic.com/photos/event/5/c/3/2/600_380303602.jpeg)

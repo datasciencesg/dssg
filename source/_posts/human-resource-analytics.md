@@ -39,5 +39,3 @@ Here are the slides: (Password: talent)
 
 (Intro to GroupM, no password)
 [http://goo.gl/gVAU0f](http://goo.gl/gVAU0f "http://goo.gl/gVAU0f")
-
-[<a href="http://datascience.sg/wp-content/uploads/2014/07/hr1.jpg">![hr1](http://datascience.sg/wp-content/uploads/2014/07/hr1-150x150.jpg)](http://goo.gl/gVAU0f "http://goo.gl/gVAU0f") [![hr2](http://datascience.sg/wp-content/uploads/2014/07/hr2-150x150.jpg)](http://datascience.sg/wp-content/uploads/2014/07/hr2.jpg) [![hr3](http://datascience.sg/wp-content/uploads/2014/07/hr3-150x150.jpg)](http://datascience.sg/wp-content/uploads/2014/07/hr3.jpg)</a>

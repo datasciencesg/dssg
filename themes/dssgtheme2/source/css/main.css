@@ -1,0 +1,186 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body
+{
+padding:0px;
+}
+a
+{
+color:#B40404;
+}
+a:hover
+{
+color:#B40404;
+}
+
+.dssgbanner
+{
+background-image: url('../img/singapore.jpg');
+background-position: center;
+background-repeat: no-repeat;
+padding-left:0px;
+padding-right:0px;
+padding-top:10px;
+padding-bottom:10px;
+}
+.dssgbanner .container
+{
+
+text-align:left;
+
+
+}
+.dssgbanner .container img
+{
+text-align:left;
+max-width: 100%;
+}
+.nav-logo
+{
+padding:0px;
+margin:0px;
+height:52px;
+}
+
+.navbar
+{
+border:0px;
+margin:0px;
+background:#B40404;
+font-weight:bold;
+}
+
+.navbar .navbar-nav li a {
+color: white;
+}
+
+.navbar .navbar-nav .active a {
+color: white;
+background-color:transparent ;
+background-image:none;
+}
+
+.navbar .navbar-nav .active a:hover {
+color: white;
+background-color:#780000;
+background-image:none;
+}
+
+.navbar .navbar-nav  li a {
+color: white;
+background-color:transparent ;
+background-image:none;
+}
+
+.navbar .navbar-nav li a:hover {
+color: white;
+background-color:#780000;
+background-image:none;
+}
+
+.navbar-default .navbar-toggle
+{
+background-color:#B40404;
+border-color:white;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+background-color:#780000 ;
+border-color:#780000 ;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+footer p
+{
+font-weight:bold;
+}
+footer img
+{
+text-align:center;
+height:50px;
+padding:10px;
+}
+.article-meta
+{
+font-weight:bold;
+}
+.article
+{
+width:80%;
+margin:auto;
+
+}
+.article img
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width:80%;
+}
+iframe
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.paginationdiv
+{
+text-align:center;
+margin:auto;
+}
+
+.paginationdiv .pagination a:hover
+{
+color:#B40404;
+}
+
+.paginationdiv .pagination a
+{
+color:#B40404;
+}
+
+.git
+{
+color:black;
+font-weight:bold;
+vertical-align:middle;
+
+}
+
+.git p
+{
+text-align:left;
+padding-top:5%;
+}
+
+.git img
+{
+width:100px;
+
+padding:10px;
+float:left;
+}
+
+.article-comment-link
+{
+font-weight:bold;
+}
+
+.article iframe
+{
+left:50%;
+}
+
+img.smallicon
+{
+width:20px;
+margin:0;
+display:inline;
+}

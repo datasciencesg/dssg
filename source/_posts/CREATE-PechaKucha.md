@@ -32,5 +32,3 @@ Tracey Li
 
 ###A new data visualisation platform   
 Oliver Senn
-
-![pechakucha](https://scontent-b-nrt.xx.fbcdn.net/hphotos-xpf1/t31.0-8/10700392_10205364453614849_214682754783146654_o.jpg)
