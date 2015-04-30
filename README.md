@@ -1,5 +1,7 @@
 #DataScience SG
 
+[![Join the chat at https://gitter.im/datasciencesg/dssg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/datasciencesg/dssg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 [DataScience.sg](http://datascience.sg/) uses [HEXO](http://hexo.io/) as a static content generator for its site.
 
