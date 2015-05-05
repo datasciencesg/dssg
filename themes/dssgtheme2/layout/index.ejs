@@ -1,4 +1,16 @@
 <% if (is_home()) { %> 
+    <!--[if IE]>
+    <script type="text/javascript">
+    window.location = "http://datascience.sg/categories/Meetup/";
+    </script>
+    <![endif]-->
+    <script type="text/javascript">
+   if (navigator.appName == 'Netscape' || navigator.appName == 'Microsoft Internet Explorer')
+   {
+
+      self.location = "http://datascience.sg/categories/Meetup/"
+
+   }
    <section class="container-fluid" id="section1">
     <div class="v-center">
         <h1 class="text-center">DataScience Singapore</h1>
