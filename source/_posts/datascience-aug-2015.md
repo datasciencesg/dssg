@@ -15,8 +15,6 @@ Xavier will present the solution he and his colleagues from DataRobot developed 
 [Photos](https://www.facebook.com/media/set/?set=oa.398212943721235&type=1)
 [Video by Yitch](http://katch.me/mryitch/v/00aede55-b34a-39bf-b0a1-b93fd459d896)
 
-<iframe width="640" height="569" src="http://katch.me/embed/v/00aede55-b34a-39bf-b0a1-b93fd459d896" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Eoph5BzZOA3Djk" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/DataRobot/featurizing-log-data-before-xgboost" title="Featurizing log data before XGBoost" target="_blank">Featurizing log data before XGBoost</a> </strong> from <strong><a href="//www.slideshare.net/DataRobot" target="_blank">Jason Bowles</a></strong> </div>
 
 
