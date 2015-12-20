@@ -11,4 +11,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="<%- config.root %>css/styles.css" />
 </script>
+<% if (is_home()) { %> 
+<script>window.scrollback = {"room":"datasciencesg","form":"toast","minimize":false};(function(d,s,h,e){e=d.createElement(s);e.async=1;e.src=(location.protocol === "https:" ? "https:" : "http:") + "//scrollback.io/client.min.js";d.getElementsByTagName(s)[0].parentNode.appendChild(e);}(document,"script"));</script>
+<% } %>
   </head>
