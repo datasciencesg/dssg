@@ -17,12 +17,12 @@ Pradeep Gupta is a Lead HPC & Deep Learning Solutions Architect at NVIDIA, where
 
 Pradeep will be talking about trends in Machine Learning and GPU, Deep Learning case studies as well as NVIDIA’s Deep Learning platform (cuDNN and DIGITS).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3T74DxXkO5Y" frameborder="0" allowfullscreen></iframe>
+
 ##Narrativeviz Consulting
 Even though exploring data visually is an integral part of the data analytics pipeline, we struggle to visually explore data once the number of dimensions goes beyond three. This talk will focus on showcasing techniques to visually explore multidimensional data (p > 3). The aim is to show examples of each of the following techniques, potentially using one exemplar dataset.
 
 The talk will also explore the role of interaction approaches to enhance our ability to visually explore the multidimensional data.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3T74DxXkO5Y" frameborder="0" allowfullscreen></iframe>
 
 ###Speaker Bio
 
@@ -32,7 +32,7 @@ Amit’s background is in strategy consulting in using data-driven stories to dr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N9uaQf6CSL8" frameborder="0" allowfullscreen></iframe>
 
-Videos by [Engineer.SG](http://engineer.sg)
+Videos by [Engineers.SG](http://engineers.sg)
 [Photos](https://www.facebook.com/media/set/?set=oa.443221099220419&type=1)
 
 
