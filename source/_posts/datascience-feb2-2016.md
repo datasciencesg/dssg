@@ -1,4 +1,4 @@
-title: DataSciece SG X AXA Meetup
+title: DataScience SG X AXA Meetup
 date: 2016-02-23 19:00
 tags:
   - insurance
