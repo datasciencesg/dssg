@@ -9,7 +9,7 @@ categories:
 
 ## DataScience 101
 
-While there is no meetup in the month of may, we have succuessfully conducted a Free R workshop taught by Mr Koo. 
+While there is no meetup in the month of may, we have sucessfully conducted a Free R workshop taught by Mr Koo. 
 Slides and Photos are attached below!
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vfblfbHRQS8q9x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BenjiT87/datascience-101-r-learning-workshop" title="DataScience 101 R Learning Workshop" target="_blank">DataScience 101 R Learning Workshop</a> </strong></div>
